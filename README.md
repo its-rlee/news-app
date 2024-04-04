@@ -1,3 +1,3 @@
-![alt text](./assets/imgs/1.png)
-![alt text](./assets/imgs/2.png)
-![alt text](./assets/imgs/3.png)
+<img src="./assets/imgs/1.png" width="128"/>
+<img src="./assets/imgs/2.png" width="128"/>
+<img src="./assets/imgs/3.png" width="128"/>
