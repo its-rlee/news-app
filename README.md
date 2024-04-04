@@ -19,9 +19,9 @@ The News App is a classic, user-friendly application designed to deliver the lat
 <img src="./assets/imgs/3.png" width="300"/>
 
 ## Technologies Used
-- Flutter for cross-platform app development.
-- Dart for clean, scalable, and robust code.
-- APIs for fetching real-time news data.
+- Flutter/Dart for cross-platform app development.
+- BloC Clean Architecture for clean, scalable, and robust code.
+- APIs for fetching news data.
 
 ## Setup and Installation
 - Clone the repository: `git clone https://github.com/its-rlee/news-app.git`
