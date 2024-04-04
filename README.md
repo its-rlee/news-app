@@ -24,10 +24,10 @@ The News App is a classic, user-friendly application designed to deliver the lat
 - APIs for fetching real-time news data.
 
 ## Setup and Installation
-- Clone the repository: git clone https://github.com/its-rlee/news-app.git
-- Navigate to the project directory: cd news-app
-- Install dependencies: flutter pub get
-- Run the app: flutter run
+- Clone the repository: `git clone https://github.com/its-rlee/news-app.git`
+- Navigate to the project directory: `cd news-app`
+- Install dependencies: `flutter pub get`
+- Run the app: `flutter run`
 
 ## Usage
 After installation, open the app to view the latest news. Use the bottom navigation to switch between different sections. Tap on any article to read it in full. Use the bookmark icon to save articles for later.
